@@ -11,7 +11,9 @@
 
 
 - `Jekin Code`
-- ```pipeline {
+```
+
+pipeline {
     agent any
 
     stages {
@@ -31,4 +33,6 @@
             }
         }
     }
-}```
+}
+
+```
