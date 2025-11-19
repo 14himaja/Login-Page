@@ -1,6 +1,6 @@
-#Create the index.html
+# Create the index.html
 
-#dockerFile
+# dockerFile
 ```
 FROM nginx:alpine
 COPY ./index.html /usr/share/nginx/html/
