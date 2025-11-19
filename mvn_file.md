@@ -1,0 +1,7 @@
+- `mvn --version`
+- `mvn archetype:generate`
+- `groupId: com.himaja`
+- `artifactId: webapphimaja`
+- `cd webapphimaja`
+- `mvn test`
+- `java -cp target/webapphimaja-1.0-SNAPSHOT.jar com.himaja.App`
