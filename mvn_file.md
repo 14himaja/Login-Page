@@ -3,5 +3,6 @@
 - `groupId: com.himaja`
 - `artifactId: webapphimaja`
 - `cd webapphimaja`
+- `mvn package`
 - `mvn test`
 - `java -cp target/webapphimaja-1.0-SNAPSHOT.jar com.himaja.App`
